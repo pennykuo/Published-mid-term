@@ -1,0 +1,16 @@
+#character {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    transition: top 0.5s, left 0.5s;
+}
+#dot {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+    top: 200px;
+    left: 200px;
+    border-radius: 50%;
+}
